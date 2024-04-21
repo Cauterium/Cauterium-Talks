@@ -14,7 +14,7 @@ Das meiste in diesem Video ist aus dem zweiten Kapitel des Buchs "Quantum Comput
 https://github.com/Cauterium/Cauterium-Talks
 
 notes:
-Alles, was ihr hier seht, sowie alle meine Skripte ist öffentlich verfügbar auf Github unter der Creative Commons Lizenz. Link ist in der Videobeschreibung. 
+Alles, was ihr hier seht, sowie alle meine Skripte ist öffentlich verfügbar auf Github unter der Creative-Commons-Lizenz. Link ist in der Videobeschreibung. 
 
 ---
 

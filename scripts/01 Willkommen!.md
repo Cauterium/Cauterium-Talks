@@ -5,18 +5,18 @@ tags:
 # Hello there!
 
 notes:
-Hello there! Wer von meinem alten Gaming Kanal kommt, wundert sich wahrscheinlich fast schon, dass ich noch lebe und wer einfach durch Zufall hier gelandet ist, heiße ich herzlich willkommen.
+Hello there! Wer von meinem alten Gamingkanal kommt, wundert sich wahrscheinlich fast schon, dass ich noch lebe und wer einfach durch Zufall hier gelandet ist, heiße ich herzlich willkommen.
 
 ---
 ## Themen des Kanals
 
 - Produktivität
 - Programmieren
-- Quanten Computing
+- Quantencomputing
 - ...
 
 notes:
-Auf diesem Kanal könnt ihr informative Videos zu allen möglichen Themen, die mich gerade so interessieren erwarten. Aktuell zählen dazu zum Beispiel Produktivität, was für mich durch mein Studium inzwischen zu einem großen Thema geworden ist. Programmieren, weil ich Informatiker bin und im speziellen auch Quanten Computing, weil ich in diesem Bereich seit etwa einem Jahr viel arbeite. In der Zukunft kann sich das natürlich auch noch komplett ändern und über gute Vorschläge, die vielleicht auch nicht ganz innerhalb von den Bereichen liegen freu ich mich auch sehr!
+Auf diesem Kanal könnt ihr informative Videos zu allen möglichen Themen, die mich gerade so interessieren erwarten. Aktuell zählen dazu zum Beispiel Produktivität, was für mich durch mein Studium inzwischen zu einem großen Thema geworden ist. Programmieren, weil ich Informatiker bin und im speziellen auch Quantencomputing, weil ich in diesem Bereich seit etwa einem Jahr viel arbeite. In der Zukunft kann sich das natürlich auch noch komplett ändern und über gute Vorschläge, die vielleicht auch nicht ganz innerhalb von den Bereichen liegen freu ich mich auch sehr!
 
 ---
 # Meine Motivation
@@ -37,7 +37,7 @@ Wer im englischsprachigen Bereich etwas mehr in der Informatik Szene unterwegs i
 ### ...und mehr, das ihr euch (legal) klauen könnt!
 
 notes:
-Ebenfalls genauso wie No Boilerplate, hab ich vor, meine Präsentationen und Skripte öffentlich auf Github unter der Creative Commons Lizenz hochzuladen, also so, dass jeder meine Inhalte verwenden kann, solange ich irgendwo kurz erwähnt werde. Außerdem werde ich mögliche kleinere Korrekturen, die ich nach dem Hochladen von einem Video gefunden hab in einem angepinnten Errata Kommentar vermerken. Schaut also gerne in die Beschreibung für den Link zu Github oder in die Kommentare für potentiell kleinere Korrekturen.
+Ebenfalls genauso wie No Boilerplate, hab ich vor, meine Präsentationen und Skripte öffentlich auf Github unter der Creative-Commons-Lizenz hochzuladen, also so, dass jeder meine Inhalte verwenden kann, solange ich irgendwo kurz erwähnt werde. Außerdem werde ich mögliche kleinere Korrekturen, die ich nach dem Hochladen von einem Video gefunden hab in einem angepinnten Errata Kommentar vermerken. Schaut also gerne in die Beschreibung für den Link zu Github oder in die Kommentare für potentiell kleinere Korrekturen.
 Wobei... bei diesem Video wird es wahrscheinlich nicht viel zu korrigieren geben, aber merkt es euch für zukünftige Videos, die weniger Ankündigungsvideos sind und mehr auf klaren Fakten beruhen, die ich eventuell falsch verstehen könnte.
 
 ---
@@ -50,10 +50,10 @@ Wenn nichts dazwischen kommt, versuche ich etwa ein Video im Monat hier hochzula
 ---
 # Mehr von mir
 
-- Gaming Videos: Cauterium Gaming
-- Klavier/Musik Videos: Cauterium Piano
+- Gaming-Videos: Cauterium Gaming
+- Klavier/Musik-Videos: Cauterium Piano
 
 notes:
-Wer mehr von mir sehen will der kann gern auf meinen anderen beiden Kanälen vorbeischauen! Auf meinem Gaming Kanal werde ich zwar nicht mehr aktiv sein, aber die alten Videos bleiben da und eventuell kommt mal ein spontaner Stream. Auf meinem Klavier bzw. Musik Kanal lade ich immer mal wieder unregelmäßig was hoch, wenn ich gerade irgendein gutes Lied und die Zeit, ein ordentliches Video dazu zu machen habe.
+Wer mehr von mir sehen will der kann gern auf meinen anderen beiden Kanälen vorbeischauen! Auf meinem Gaming Kanal werde ich zwar nicht mehr aktiv sein, aber die alten Videos bleiben da und eventuell kommt mal ein spontaner Stream. Auf meinem Klavier- bzw. Musik-Kanal lade ich immer mal wieder unregelmäßig was hoch, wenn ich gerade irgendein gutes Lied und die Zeit, ein ordentliches Video dazu zu machen habe.
 Ansonsten würde es mich freuen, wenn ihr den Kanal hier abonniert und mich auf meiner Reise begleitet!
-Wir sehen uns im nächsten Video über die Geschichte von Quanten Computing!
+Wir sehen uns im nächsten Video über die Geschichte von Quantencomputing!
